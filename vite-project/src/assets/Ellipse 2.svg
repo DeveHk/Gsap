@@ -1,0 +1,32 @@
+<svg width="124" height="123" viewBox="0 0 124 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_diif_1_26)">
+<ellipse cx="62.1221" cy="61.7021" rx="45.7015" ry="46.213" transform="rotate(99.5 62.1221 61.7021)" fill="#FFBE0B" fill-opacity="0.85" shape-rendering="crispEdges"/>
+</g>
+<defs>
+<filter id="filter0_diif_1_26" x="0.915857" y="0.979298" width="127.413" height="121.446" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_26"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_26" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="10" operator="erode" in="SourceAlpha" result="effect2_innerShadow_1_26"/>
+<feOffset dx="20" dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.9625 0 0 0 0 0.919187 0 0 0 0 0.919187 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_1_26"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="10" operator="erode" in="SourceAlpha" result="effect3_innerShadow_1_26"/>
+<feOffset dx="-10" dy="5"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.116667 0 0 0 0 0.0229444 0 0 0 0 0.0229444 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="effect2_innerShadow_1_26" result="effect3_innerShadow_1_26"/>
+<feGaussianBlur stdDeviation="7.5" result="effect4_foregroundBlur_1_26"/>
+</filter>
+</defs>
+</svg>

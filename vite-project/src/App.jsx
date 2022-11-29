@@ -1,15 +1,16 @@
 import { useState } from 'react'
 import './App.css'
-import Content from './Components/Content'
-import Header from './Components/Header'
-import Graphic from './Components/Graphic'
-import Head from './Components/Head'
+import Header from './dashingScroll/Header'
+import Content from './ecellHeader/Content'
+import Graphic from './ecellHeader/Graphic'
+import Head from './ecellHeader/Head'
 
 function App() {
   
   return (
     <>
     <Head/>
+    <Header/>
     </>
   )
 }
